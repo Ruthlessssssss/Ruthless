@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260829-210452-ymny",
+      "title": "Majestic Dreamspear",
+      "commanders": [
+        "Majestic Dreamspear"
+      ],
+      "guild": {
+        "id": "A8833F5D-22C5-E311-BB46-80C16E7C6D65",
+        "name": "Very Innovative Players",
+        "tag": "VIP"
+      },
+      "dateStart": "2026-08-30T01:04:52.000Z",
+      "dateEnd": "2026-08-30T02:09:11.309Z",
+      "dateLabel": "8/29/2026, 9:04:52 PM - 8/29/2026, 10:09:11 PM",
+      "url": "https://Ruthlessssssss.github.io/Ruthless/?report=20260829-210452-ymny",
+      "summary": {
+        "borderlandsPct": 0.24074074074074073,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 41,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260826-210805-3uin",
       "title": "Majestic Dreamspear",
       "commanders": [
