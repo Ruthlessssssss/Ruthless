@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260901-210527-9i2w",
+      "title": "Majestic Dreamspear, Zyk Feels Regarded",
+      "commanders": [
+        "Majestic Dreamspear",
+        "Zyk Feels Regarded"
+      ],
+      "guild": {
+        "id": "9A87CD01-5B0D-ED11-81AC-95DFE50946EB",
+        "name": "Corner Stone",
+        "tag": "WvW"
+      },
+      "dateStart": "2026-09-02T01:05:27.000Z",
+      "dateEnd": "2026-09-02T02:05:52.467Z",
+      "dateLabel": "9/1/2026, 9:05:27 PM - 9/1/2026, 10:05:52 PM",
+      "url": "https://Ruthlessssssss.github.io/Ruthless/?report=20260901-210527-9i2w",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 36,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260829-210452-ymny",
       "title": "Majestic Dreamspear",
       "commanders": [
