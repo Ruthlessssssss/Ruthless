@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260902-211633-4bnu",
+      "title": "Majestic Dreamspear",
+      "commanders": [
+        "Majestic Dreamspear"
+      ],
+      "guild": {
+        "id": "15CEC1FA-3286-40B6-B687-1E8F80970C4D",
+        "name": "Knights Of The Temple",
+        "tag": "KnT"
+      },
+      "dateStart": "2026-09-03T01:16:33.000Z",
+      "dateEnd": "2026-09-03T01:58:33.534Z",
+      "dateLabel": "9/2/2026, 9:16:33 PM - 9/2/2026, 9:58:33 PM",
+      "url": "https://Ruthlessssssss.github.io/Ruthless/?report=20260902-211633-4bnu",
+      "summary": {
+        "borderlandsPct": 0.8666666666666667,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260901-210527-9i2w",
       "title": "Majestic Dreamspear, Zyk Feels Regarded",
       "commanders": [
