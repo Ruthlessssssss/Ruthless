@@ -1,9 +1,42 @@
 {
   "colorPalette": "amber-warm",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261006-210036-3ux1",
+      "title": "Majestic Dreamspear",
+      "commanders": [
+        "Majestic Dreamspear"
+      ],
+      "guild": {
+        "id": "15CEC1FA-3286-40B6-B687-1E8F80970C4D",
+        "name": "Knights Of The Temple",
+        "tag": "KnT"
+      },
+      "dateStart": "2026-10-07T01:00:36.000Z",
+      "dateEnd": "2026-10-07T01:41:28.090Z",
+      "dateLabel": "10/6/2026, 9:00:36 PM - 10/6/2026, 9:41:28 PM",
+      "url": "https://Ruthlessssssss.github.io/Ruthless/?report=20261006-210036-3ux1",
+      "summary": {
+        "borderlandsPct": 0.9142857142857143,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 36
+      }
+    },
     {
       "id": "20261003-210645-j8pv",
       "title": "Majestic Dreamspear",
