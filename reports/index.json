@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261014-212653-jwd5",
+      "title": "Majestic Dreamspear",
+      "commanders": [
+        "Majestic Dreamspear"
+      ],
+      "guild": {
+        "id": "15CEC1FA-3286-40B6-B687-1E8F80970C4D",
+        "name": "Knights Of The Temple",
+        "tag": "KnT"
+      },
+      "dateStart": "2026-10-15T01:26:53.000Z",
+      "dateEnd": "2026-10-15T02:11:31.607Z",
+      "dateLabel": "10/14/2026, 9:26:53 PM - 10/14/2026, 10:11:31 PM",
+      "url": "https://Ruthlessssssss.github.io/Ruthless/?report=20261014-212653-jwd5",
+      "publishedBy": "Ruthlessssssss",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 43,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 46
+      }
+    },
     {
       "id": "20261013-211322-5e34",
       "title": "Majestic Dreamspear",
