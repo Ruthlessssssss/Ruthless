@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261027-210319-tzua",
+      "title": "Majestic Dreamspear, Pikue",
+      "commanders": [
+        "Majestic Dreamspear",
+        "Pikue"
+      ],
+      "guild": {
+        "id": "15CEC1FA-3286-40B6-B687-1E8F80970C4D",
+        "name": "Knights Of The Temple",
+        "tag": "KnT"
+      },
+      "dateStart": "2026-10-28T01:03:19.000Z",
+      "dateEnd": "2026-10-28T01:35:33.996Z",
+      "dateLabel": "10/27/2026, 9:03:19 PM - 10/27/2026, 9:35:33 PM",
+      "url": "https://Ruthlessssssss.github.io/Ruthless/?report=20261027-210319-tzua",
+      "publishedBy": "Ruthlessssssss",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20261021-210755-syzp",
       "title": "Majestic Dreamspear",
       "commanders": [
