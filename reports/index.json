@@ -5,9 +5,160 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.22.12"
   },
   "entries": [
+    {
+      "id": "20261109-200516-ilot",
+      "title": "Elder No Fun, Xilicah, Xillyss Thurdóttir",
+      "commanders": [
+        "Elder No Fun",
+        "Xilicah",
+        "Xillyss Thurdóttir"
+      ],
+      "guild": {
+        "id": "5C6306EB-93FA-E311-8290-AC162DAE0BED",
+        "name": "The Sickest Guild",
+        "tag": "NA"
+      },
+      "dateStart": "2026-11-10T01:05:16.000Z",
+      "dateEnd": "2026-11-10T02:29:55.300Z",
+      "dateLabel": "11/9/2026, 8:05:16 PM - 11/9/2026, 9:29:55 PM",
+      "url": "https://Ruthlessssssss.github.io/Ruthless/?report=20261109-200516-ilot",
+      "publishedBy": "Ruthlessssssss",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Dhuum",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Deimos",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Whisper of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Fraenir of Jormag",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xera",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Twisted Castle",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Keep Construct",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Matthias Gabrel",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Sabetha the Saboteur",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Qadim",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Twin Largos",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Conjured Amalgamate",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Slothasor",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Vale Guardian",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Ura",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Decima, the Stormsinger",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Greer, the Blightbringer",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Soulless Horror",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Qadim the Peerless",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Sabir",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Adina",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 2
+      }
+    },
     {
       "id": "20261107-210650-a3u3",
       "title": "Majestic Dreamspear",
