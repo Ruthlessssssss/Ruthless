@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261118-211328-ry86",
+      "title": "Ruthless Dreamspear",
+      "commanders": [
+        "Ruthless Dreamspear"
+      ],
+      "guild": {
+        "id": "15CEC1FA-3286-40B6-B687-1E8F80970C4D",
+        "name": "Knights Of The Temple",
+        "tag": "KnT"
+      },
+      "dateStart": "2026-11-19T02:13:28.000Z",
+      "dateEnd": "2026-11-19T02:52:37.226Z",
+      "dateLabel": "11/18/2026, 9:13:28 PM - 11/18/2026, 9:52:37 PM",
+      "url": "https://Ruthlessssssss.github.io/Ruthless/?report=20261118-211328-ry86",
+      "publishedBy": "Ruthlessssssss",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 20,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20261117-210811-26e8",
       "title": "Ruthless Dreamspear",
       "commanders": [
