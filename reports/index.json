@@ -9,6 +9,152 @@
   },
   "entries": [
     {
+      "id": "20261123-200326-691c",
+      "title": "Ankle Biting Pyro, Elder No Fun, Eristotle",
+      "commanders": [
+        "Ankle Biting Pyro",
+        "Elder No Fun",
+        "Eristotle"
+      ],
+      "guild": {
+        "id": "45845E66-18A5-E411-863C-E4115BDF481D",
+        "name": "Glenna Ate Our Homework",
+        "tag": "TOXC"
+      },
+      "dateStart": "2026-11-24T01:03:26.000Z",
+      "dateEnd": "2026-11-24T02:34:20.095Z",
+      "dateLabel": "11/23/2026, 8:03:26 PM - 11/23/2026, 9:34:20 PM",
+      "url": "https://Ruthlessssssss.github.io/Ruthless/?report=20261123-200326-691c",
+      "publishedBy": "Ruthlessssssss",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Dhuum",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Ura",
+            "value": 3,
+            "color": "#64748b"
+          },
+          {
+            "name": "Deimos",
+            "value": 2,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cosmic Observatory",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Xera",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Twisted Castle",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Keep Construct",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Matthias Gabrel",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Sabetha the Saboteur",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Gorseval the Multifarious",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Qadim",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Twin Largos",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Conjured Amalgamate",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Samarog",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Mursaat Overseer",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cairn",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Slothasor",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Vale Guardian",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Decima, the Stormsinger",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Greer, the Blightbringer",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Soulless Horror",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Qadim the Peerless",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Sabir",
+            "value": 1,
+            "color": "#64748b"
+          },
+          {
+            "name": "Cardinal Adina",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 3
+      }
+    },
+    {
       "id": "20261121-210715-80k9",
       "title": "Ruthless Dreamspear",
       "commanders": [
