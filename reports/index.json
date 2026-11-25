@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261124-210822-fu2r",
+      "title": "Ruthless Dreamspear",
+      "commanders": [
+        "Ruthless Dreamspear"
+      ],
+      "guild": {
+        "id": "15CEC1FA-3286-40B6-B687-1E8F80970C4D",
+        "name": "Knights Of The Temple",
+        "tag": "KnT"
+      },
+      "dateStart": "2026-11-25T02:08:22.000Z",
+      "dateEnd": "2026-11-25T02:44:52.741Z",
+      "dateLabel": "11/24/2026, 9:08:22 PM - 11/24/2026, 9:44:52 PM",
+      "url": "https://Ruthlessssssss.github.io/Ruthless/?report=20261124-210822-fu2r",
+      "publishedBy": "Ruthlessssssss",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20261123-200326-691c",
       "title": "Ankle Biting Pyro, Elder No Fun, Eristotle",
       "commanders": [
