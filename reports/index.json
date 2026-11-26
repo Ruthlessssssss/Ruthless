@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261125-214619-1q5b",
+      "title": "Ruthless Dreamspear",
+      "commanders": [
+        "Ruthless Dreamspear"
+      ],
+      "guild": {
+        "id": "9A87CD01-5B0D-ED11-81AC-95DFE50946EB",
+        "name": "Corner Stone",
+        "tag": "WvW"
+      },
+      "dateStart": "2026-11-26T02:46:19.000Z",
+      "dateEnd": "2026-11-26T03:36:31.519Z",
+      "dateLabel": "11/25/2026, 9:46:19 PM - 11/25/2026, 10:36:31 PM",
+      "url": "https://Ruthlessssssss.github.io/Ruthless/?report=20261125-214619-1q5b",
+      "publishedBy": "Ruthlessssssss",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20261124-210822-fu2r",
       "title": "Ruthless Dreamspear",
       "commanders": [
